@@ -10,10 +10,10 @@
  */
 
 // Part 1 answer 👇🏻 ...
-let fullName = "Mohammed Almethen";
-let yearOfBirth = 2002; 
-let hobby = "Electronics";
-let funFact = "I still love playing video games ";
+const fullName = "Mohammed Almethen";
+const yearOfBirth = 2002; 
+const hobby = "Electronics";
+const funFact = "I still love playing video games ";
 const image = "My Picture.jpg";
 
 
@@ -36,7 +36,7 @@ const image = "My Picture.jpg";
 YOUR_AGE = 22;
 
 const fullNameString = `My name is ${fullName}`;
-const yearOfBirthString = `I am ${YOUR_AGE} years old`;
+const yearOfBirthString = `I am ${2024 - yearOfBirth} years old`;
 const hobbyString = `My hobby is working with ${hobby}`;
  
 
