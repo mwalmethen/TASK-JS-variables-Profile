@@ -14,7 +14,7 @@ const fullName = "Mohammed Almethen";
 const yearOfBirth = 2002; 
 const hobby = "Electronics";
 const funFact = "I still love playing video games ";
-const image = "My Picture.jpg";
+const image = "https://remotescout24.com/media/blogs/1220-main.jpg";
 
 
 
@@ -33,8 +33,6 @@ const image = "My Picture.jpg";
  * Uncomment the following lines and start interpolating.
  * You can uncomment a line by removing the // at the start
  */
-YOUR_AGE = 22;
-
 const fullNameString = `My name is ${fullName}`;
 const yearOfBirthString = `I am ${2024 - yearOfBirth} years old`;
 const hobbyString = `My hobby is working with ${hobby}`;
